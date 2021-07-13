@@ -1,0 +1,28 @@
+The python modules required are: 
+
+from tkinter.filedialog import *
+import pyautogui
+import PySimpleGUI as sg
+import tkinter as tk
+from tkinter import *
+from PIL import Image,ImageTk
+from datetime import datetime
+from tkinter import messagebox, filedialog
+from googlesearch import search
+import speech_recognition as sr
+import tkinter as tk
+import requests
+import time
+import pyttsx3
+import pywhatkit
+import datetime
+import wikipedia
+import pyjokes
+import webbrowser
+import subprocess
+import turtle as tl
+import cv2
+import numpy as np
+
+
+
