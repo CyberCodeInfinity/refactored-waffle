@@ -1,3 +1,4 @@
+# Minecraft project simple for kids using python
 
 from playsound import playsound
 from ursina import *
